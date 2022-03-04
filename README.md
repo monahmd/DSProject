@@ -7,5 +7,5 @@ about project
 
 how to use it?
 
-        ↳ This project is in Java language.
-        You need JDK and an editor to run it.
+     ↳ This project is in Java language.
+       You need JDK and an editor to run it.
